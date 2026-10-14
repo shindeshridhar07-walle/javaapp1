@@ -4,5 +4,6 @@
 <p>this is for manual deployment</p>
 <p>This is java web app and deployment</p>
 <a href="about.jsp">Click to About Page</a>
+<a href="services.jsp">Click to Services Page </a>
 </body>
 </html>
